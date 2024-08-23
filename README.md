@@ -1,3 +1,6 @@
+![Under Construction](https://img.shields.io/badge/status-under%20construction-red)
+![WIP](https://img.shields.io/badge/status-WIP-orange)
+
 # Full Stack Data Science with Generative AI
 
 Welcome to the repository for the course "Full Stack Data Science with Generative AI". This repository is designed to accompany the course and provide resources, exercises, and projects related to the study of data science and generative AI techniques.
